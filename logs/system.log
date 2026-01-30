@@ -1,0 +1,2 @@
+{"event": "call_failed", "call_id": "CALL_123", "service": "ElevenLabs", "error_category": "Transient", "retry_count": 3, "circuit_state": "CLOSED", "timestamp": "2026-01-29T16:20:09.018367"}
+{"event": "call_failed", "call_id": "CALL_123", "service": "ElevenLabs", "error_category": "Transient", "retry_count": 3, "circuit_state": "CLOSED", "timestamp": "2026-01-30T05:17:31.025287"}
