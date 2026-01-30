@@ -124,7 +124,6 @@ All alert channels are fully wired but mocked to avoid external dependencies and
 
 Example log entry:
 ```json
-<img width="1621" height="1068" alt="Screenshot 2026-01-30 104755" src="https://github.com/user-attachments/assets/1e805631-1485-4b1f-a57a-5c08dfbfa090" />
 
 {
   "timestamp": "2026-01-29T12:11:08Z",
@@ -135,4 +134,7 @@ Example log entry:
   "circuit_state": "OPEN",
   "call_id": "CALL_123"
 }
+<img width="1621" height="1068" alt="Screenshot 2026-01-30 104755" src="https://github.com/user-attachments/assets/1e805631-1485-4b1f-a57a-5c08dfbfa090" />
+<img width="1621" height="1068" alt="Screenshot 2026-01-30 104755" src="https://github.com/user-attachments/assets/dc801982-7258-49c9-b08e-7eaeb349392a" />
+
 
